@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+h1{
+    color: brown;
+}
+
+.heading{
+    color: rgb(83, 245, 19);
+}
+
+
+#menu{
+background-color: blue;
+width: auto;
+
+color: white;
+padding: 20px  5px;
+text-align: right;
+border-radius: 5px;
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(7, 7, 32);
+    padding: 10px 30px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#menu a:hover{
+    background-color: rgb(174, 174, 235);
+}
+
+#hero{
+    background-color: rgb(50, 30, 70);
+    height: 400px;
+    width: auto;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+#hero h1{
+    color: white;
+    font-size: 40px;
+}
+#hero p{
+    color: white;
+    font-size: 30px;
+    margin-top: 20px ;
+}
+
+#hero a{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 50px;
+    display: inline-block;
+
+}
+
+#hero a:hover{
+    background-color: rgb(137, 137, 230);
+}
+
+#courses{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#courses h1{
+    text-align: center;
+    color: rgb(4, 4, 48);
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+#courses img{
+    height: 200px;
+    margin: 0px 5px;
+    border-radius: 5px;
+
+}
